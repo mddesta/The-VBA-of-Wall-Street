@@ -23,10 +23,10 @@ This project is created with VBA. The following requirements were met:
 ## Illustrations
 
 **2014 Stock Market Analysis Screenshot:** 
-![](2014.png)
+![](2014.PNG)
 
 **2015 Stock Market Analysis Screenshot:** 
-![](2015.png)
+![](2015.PNG)
 
 **2016 Stock Market Analysis Screenshot:** 
-![](2016.png)
+![](2016.PNG)
